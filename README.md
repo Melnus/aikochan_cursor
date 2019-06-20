@@ -1,2 +1,2 @@
 # aikochan_cursor
-takamori aiko cursor (ico) data back up
+takamori aiko cursor (.ani) data back up
